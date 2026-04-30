@@ -1,0 +1,8 @@
+html, body {
+  height: 100%;
+  -webkit-font-smoothing: auto;
+  -moz-osx-font-smoothing: auto;
+  font-family: 'Crimson Text', serif;
+  background-color: #000000;
+  font-size: 1.1rem;
+}
